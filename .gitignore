@@ -1,0 +1,6 @@
+/gen/
+/bin/
+.settings
+*~
+*.class
+.apt_generated
